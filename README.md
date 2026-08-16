@@ -1,7 +1,7 @@
 Weather App 🌦️
 A weather application that shows current weather and forecast information for any city.
 Live Demo:
-https://weather-app-w0wi.onrender.com⁠�
+https://weather-app-w0wi.onrender.com
 Technologies Used:
 HTML
 CSS
